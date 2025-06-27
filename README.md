@@ -1,0 +1,1 @@
+A spam detection system using Python and machine learning algorithms to classify messages as spam or ham. Collected and preprocessed SMS/email data using techniques . Trained models using Naive Bayes, Logistic Regression, and SVM, achieving high accuracy and precision. This project includes supervised learning using libraries like scikit-learn, pandas, and NumPy.
